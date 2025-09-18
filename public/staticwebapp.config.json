@@ -6,7 +6,7 @@
       "statusCode": 200
     }
   ],
-  "platform": {
-    "apiRuntime": "/index.html"
+  "navigationFallback": {
+    "rewrite": "/index.html"
   }
 }
