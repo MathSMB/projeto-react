@@ -7,6 +7,6 @@
     }
   ],
   "platform": {
-    "apiRuntime": "node:16"
+    "apiRuntime": "/index.html"
   }
 }
